@@ -1,5 +1,5 @@
 HangComingSoon::Application.routes.draw do
-  root "pages#home"
+  root "pages#index"
 
 
   # The priority is based upon order of creation: first created -> highest priority.
